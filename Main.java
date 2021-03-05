@@ -4,10 +4,8 @@ public class Main {
         SortAlgorithm BubbleSort = new SortAlgorithm();
         BubbleSort.BubbleSort(array);
 
-        for (int x: array) {
-            System.out.print(x + " ");
-        }
-
-
+//        for (int x: array) {
+//            System.out.print(x + " ");
+//        }
     }
 }
